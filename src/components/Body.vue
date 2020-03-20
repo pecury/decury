@@ -55,8 +55,8 @@
 body, html {
 margin: 0;
 font-family: OpenSans;
-height: 100vh;
-background: $white;
+height: 90vh;
+background: $purple;
 }
 
 body {
